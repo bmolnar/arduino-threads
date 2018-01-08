@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for Threads
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+thrinfo	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+thr_init	KEYWORD2
+thr_self	KEYWORD2
+thr_clone	KEYWORD2
+thr_count	KEYWORD2
+thr_info	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
